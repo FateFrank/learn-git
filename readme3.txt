@@ -1,3 +1,3 @@
 ﻿Git is a version control system.
 Git is free software.
-Git is a ...
+This a line during merging.
